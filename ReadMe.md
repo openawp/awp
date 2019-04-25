@@ -10,8 +10,9 @@ This source code implements the AWP-CH algorithm for parallel computing exact ge
 -o [output mesh file with geodesic distances information]: (only support .obj files)
 
 ## Example: 
+```
 AWP.exe -m bunny_nf144k.m -s 13340 -o bunny_info.obj
-
+```
 ## More
 As research code, it does not handle skinny or degenerate triangles. The code has been tested on the following GPUs
 
