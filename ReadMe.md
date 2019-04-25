@@ -1,5 +1,5 @@
 # AWP source code
-[![license]](LICENSE) 
+[license](LICENSE) 
 
 This source code implements the AWP-CH algorithm for parallel computing exact geodesic distances on manifold triangle meshes without boundaries.'
 
