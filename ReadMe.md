@@ -1,14 +1,18 @@
-# AWP_source_code
+# AWP source code
 
 This source code implements the AWP-CH algorithm for parallel computing exact geodesic distances on manifold triangle meshes without boundaries.'
 
-## USAGE:
+## Usage:
 -m [mesh file]: input model file
+
 -s [source index]: index of source
+
 -o [output mesh file with geodesic distances information]: (only support .obj files)
 
-## Example: AWP.exe -m bunny_nf144k.m -s 13340 -o bunny_info.obj
+## Example: 
+AWP.exe -m bunny_nf144k.m -s 13340 -o bunny_info.obj
 
+## More
 As research code, it does not handle skinny or degenerate triangles. The code has been tested on the following GPUs
 
 - GTX 970 with 1664 CUDA cores and 2.44 Tflops;
