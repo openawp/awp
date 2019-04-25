@@ -1,5 +1,6 @@
 # AWP source code
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE) 
+
 This source code implements the AWP-CH algorithm for parallel computing exact geodesic distances on manifold triangle meshes without boundaries.'
 
 ## Usage:
