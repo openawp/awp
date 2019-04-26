@@ -20,3 +20,7 @@ As research code, it does not handle skinny or degenerate triangles. The code ha
 - GTX 970 with 1664 CUDA cores and 2.44 Tflops;
 - GTX Titan X (Maxwell) with 3072 CUDA cores and 7.0 T358 flops; and
 - GTX Titan Xp with 3840 CUDA cores and 12 Tflops.
+
+If using the code, please cite the paper
+
+Ying et al., Parallelizing Discrete Geodesic Algorithms with Perfect Efficiency, Computer-Aided Design, 2019.
