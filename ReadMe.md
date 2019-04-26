@@ -22,5 +22,6 @@ As research code, it does not handle skinny or degenerate triangles. The code ha
 - GTX Titan Xp with 3840 CUDA cores and 12 Tflops.
 
 If using the code, please cite the paper
-
+```
 Ying et al., Parallelizing Discrete Geodesic Algorithms with Perfect Efficiency, Computer-Aided Design, 2019.
+```
